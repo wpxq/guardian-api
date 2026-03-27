@@ -49,7 +49,10 @@ To run the automated test suite locally:
 ```bash
 PYTHONPATH=. pytest
 ```
-
+or (if no issues)
+```bash
+pytest
+```
 ## Deployment
 The project includes a `Dockerfile` for easy deployment. Note that the container requires
 access to the Docker socket (`/var/run/docker.sock`) to communicate with the Docker
