@@ -30,7 +30,7 @@ A lightweight, production-ready FastAPI backend designed for Docker infrastructu
 The easiest way to get the API up and running:
 
 ```bash
-git clone [https://github.com/wpxq/guardian-api.git](https://github.com/wpxq/guardian-api.git)
+git clone https://github.com/wpxq/guardian-api
 cd guardian-api
 
 docker compose up -d
