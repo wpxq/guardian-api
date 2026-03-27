@@ -1,3 +1,5 @@
+![Tests](https://github.com/wpxq/guardian-api/actions/workflows/tests.yml/badge.svg)
+
 # Guardian API
 
 A lightweight, production-ready FastAPI backend designed for Docker infrastructure monitoring and real-time container observability.
