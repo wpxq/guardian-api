@@ -32,7 +32,8 @@ The easiest way to get the API up and running:
 ```bash
 git clone https://github.com/wpxq/guardian-api
 cd guardian-api
-
+```
+```bash
 docker compose up -d
 ```
 The API will be available at `http://localhost:800`
