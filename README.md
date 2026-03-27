@@ -36,7 +36,7 @@ cd guardian-api
 ```bash
 docker compose up -d
 ```
-The API will be available at `http://localhost:800`
+The API will be available at `http://localhost:8080`
 
 ## API Endpoints
 * `GET /health`: Check if the API is alive
