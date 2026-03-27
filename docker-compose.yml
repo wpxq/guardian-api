@@ -1,0 +1,11 @@
+services:
+  guardian-api:
+    build: .
+    container_name: guardian-api-service
+    ports:
+      - "8000:8000"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    restart: always
+    environment:
+      - PYTHONUNBUFFERED=1

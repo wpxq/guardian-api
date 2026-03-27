@@ -1,0 +1,10 @@
+# py cache xd
+__pycache__/
+*.py[cod]
+*$py.class
+# py tests xd
+.pytest_cache/
+.coverage/
+.htmlcov/
+# docker logs xd
+*.log
