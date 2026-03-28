@@ -42,7 +42,7 @@ The API will be available at `http://localhost:8080`
 * `GET /health`: Check if the API is alive
 * `GET /containers`: List all containers on the host
 * `GET /containers/stats`: Get detailed RAM and CPU metrics
-* `GET /docs`: INteractive Swagger UI documentation
+* `GET /docs`: Interactive Swagger UI documentation
 
 ## Testing
 To run the automated test suite locally:
